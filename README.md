@@ -1,4 +1,6 @@
 📄 Loan Agreement Template Generator
+
+
 This Node.js project dynamically generates a loan agreement using LiquidJS templating.
 
 🔧 What It Does
@@ -27,4 +29,8 @@ Let me know if you want a section on how to convert it to PDF or how to run the 
 
 ![Screenshot1](https://github.com/user-attachments/assets/811165f8-9579-4ce3-8392-34e30c481a3c)
 ser-attachments/assets/b2044cc9-d515-4b2b-977b-e16fc737fe31)
+
+
+![image](https://github.com/user-attachments/assets/fd32d58a-3544-490f-b6da-5de15b110f9f)
+![image](https://github.com/user-attachments/assets/fd32d58a-3544-490f-b6da-5de15b110f9f)
 
